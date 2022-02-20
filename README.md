@@ -140,7 +140,8 @@ Polaris为Discovery高级定制版，特色功能
 - 2018年07月发布v4.0.0，支持Finchley版
 - 2019年04月发布v5.0.0，支持Greenwich版
 - 2020年04月发布v6.0.0，支持Hoxton版
-- 2021年04月完成v7.0.0，支持202x版
+- 2021年04月完成v7.0.0，支持2020版
+- 2022年04月完成v8.0.0，支持2021版
 
 ### 功能概述
 Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba，Discovery服务注册发现、Ribbon & Spring Cloud LoadBalancer负载均衡、Feign & RestTemplate & WebClient调用、Spring Cloud Gateway & Zuul过滤等组件全方位增强的企业级微服务开源解决方案，更贴近企业级需求，更具有企业级的插件引入、开箱即用特征
@@ -263,7 +264,7 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 | 框架版本 | 框架分支 | 框架状态 | Spring Cloud版本 | Spring Boot版本 | Spring Cloud Alibaba版本 |
 | --- | --- | --- | --- | --- | --- |
-| 8.0.0<br>商业版 | DiscoveryX/master | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | 2021.x.x | 2.6.x<br>2.7.x | 2022.x |
+| 8.0.0<br>商业版 | DiscoveryX/master | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | 2021.x.x | 2.7.x<br>2.6.x | 2022.x |
 | 7.0.0<br>商业版 | DiscoveryX/7.x.x | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | 2020.x.x | 2.5.x<br>2.4.1 `↑` | 2021.x |
 | 6.13.1 `↑` | Discovery/6.x.x | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | Hoxton.SR5 `↑`<br>Hoxton<br>Greenwich<br>Finchley | 2.3.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE | 2.2.7.RELEASE `↑` |
 | 6.12.1 `↓` | Discovery/6.x.x | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) | Hoxton.SR5 `↑`<br>Hoxton<br>Greenwich<br>Finchley | 2.3.x.RELEASE<br>2.2.x.RELEASE<br>2.1.x.RELEASE<br>2.0.x.RELEASE | 2.2.6.RELEASE `↓`<br>2.1.x.RELEASE<br>2.0.x.RELEASE |
@@ -275,7 +276,8 @@ Discovery【探索】微服务框架，基于Spring Cloud & Spring Cloud Alibaba
 
 ![](http://nepxion.gitee.io/discovery/docs/icon-doc/confirm_24.png) 表示维护中 | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/arrow_up_24.png) 表示不维护，但可用，强烈建议升级 | ![](http://nepxion.gitee.io/discovery/docs/icon-doc/delete_24.png) 表示不维护，不可用，已废弃
 
-- 7.x.x版本（适用于202x.x.x）将继续维护
+- 8.x.x版本（适用于2021.x.x）将继续维护
+- 7.x.x版本（适用于2020.x.x）将继续维护
 - 6.x.x版本（同时适用于Finchley、Greenwich和Hoxton）将继续维护
 - 5.x.x版本（适用于Greenwich）已废弃
 - 4.x.x版本（适用于Finchley）已废弃
